@@ -1,0 +1,22 @@
+h1{
+	text-align: center;
+	color: blue;
+}
+
+table {
+	margin:auto;
+}
+
+td{
+	width: 120px;
+    height: 120px;
+}
+.vertical {
+border-left: 5px solid black;
+border-right: 5px solid black;
+}
+
+.horizontal{
+	border-top: 5px solid black;
+	border-bottom: 5px solid black;
+}
